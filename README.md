@@ -7,5 +7,10 @@ Link to the dashboards –
 FIES - https://public.tableau.com/profile/ashutosh.pandey3014#!/vizhome/RaschModel/FoodInsecurity?publish=yes
 
 Supply-Demand analysis 
-https://public.tableau.com/profile/ashutosh.pandey3014#!/vizhome/RaschModel/FoodInsecurity?publish=yes
+https://public.tableau.com/profile/phalguni.shendye#!/vizhome/SUR_15942289520880/Story
+
+
+Link to the video -
+https://drive.google.com/file/d/1SJl87ryvbAyocZvCcosaTRQAk5xKEkwf/view?usp=sharing
+
 
